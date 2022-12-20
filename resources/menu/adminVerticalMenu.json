@@ -1,0 +1,19 @@
+{
+    "menu": [
+        {
+            "url": "/admin/dashboard",
+            "name": "Dashboard",
+            "icon": "menu-icon tf-icons bx bx-home-circle",
+            "slug": "admin-dashboard"
+        },
+        {
+            "menuHeader": "User Manage"
+        },
+        {
+            "url" : "/admin/users",
+            "name": "Users",
+            "icon": "menu-icon tf-icons bx bx bx-user",
+            "slug": "admin-users"
+        }
+    ]
+}

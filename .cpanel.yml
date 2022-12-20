@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mitterand/public_html/Learn_french
+    - /bin/cp -R * $DEPLOYPATH
